@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a data scientist with experience in SQL and Python. I also have 10 years of experience as a physics educator using data and statistical analysis to differentiate content and lesson delivery in both urban and rural public schools. Through these experiences, I have focused on data science, completing a data science certification through Springboard in March of 2023 where I completed two end-to-end capstone projects.
+Design innovative machine-learning solutions for real-world problems, such as climate change and cancer research. Develop advanced data models based on computer visioning and API data scraping.
 
 <!--
 **MarcJKolb/MarcJKolb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
